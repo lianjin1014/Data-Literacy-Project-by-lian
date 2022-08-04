@@ -1,4 +1,4 @@
-# Data-Literacy-Project-by-lian-and-yuqing
+# Data-Literacy-Project-by-lian
 
 It is a research project on the salary of data scientists in American.
 The data is form https://www.kaggle.com/nikhilbhathi/data-scientist-salary-us-glassdoor. He scraped job postings related to Data Science field from www.glassdoor.com.
